@@ -2,6 +2,19 @@
 
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.3.0.
 
+# Versions
+```sh
+C:\Users\DHRUV>yo --version
+1.6.0
+
+C:\Users\DHRUV>node -v
+v5.5.0
+
+C:\Users\DHRUV>npm -v
+3.5.3
+```
+Angular Fullstack Version:   `"version": "3.3.0"`
+
 ## Getting Started
 
 ### Prerequisites
